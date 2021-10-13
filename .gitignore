@@ -1,1 +1,5 @@
-data/*.dat
+**/*.dat
+**/.ipynb_checkpoints
+**/__pychache__
+.idea
+**/*.zip
